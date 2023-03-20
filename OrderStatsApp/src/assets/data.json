@@ -1,0 +1,26 @@
+[
+    {
+        "type": "Revenue",
+        "value": "$2.047",
+        "static": 10,
+        "state": "decrement"
+    },
+    {
+        "type": "Orders",
+        "value": "356",
+        "static": 20,
+        "state": "increment"
+    },
+    {
+        "type": "Dine in",
+        "value": "220",
+        "static": 10,
+        "state": "increment"
+    },
+    {
+        "type": "Take away",
+        "value": "135",
+        "static": 5,
+        "state": "decrement"
+    }
+]

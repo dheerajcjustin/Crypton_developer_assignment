@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "name": "Aokiji",
+        "date": "28 Feb 2023",
+        "time": "06:23 PM",
+        "amount": 13.00,
+        "status": "Received"
+    },
+    {
+        "id": 2,
+        "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
+        "name": "Kizaru",
+        "date": "28 Feb 2023",
+        "time": "06:23 PM",
+        "amount": 9.00,
+        "status": "Outgoing"
+    },
+    {
+        "id": 3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ08ONij650Zvo8AArfGPCkjlN_9KPFXxs-l5UUuHe0&s",
+        "name": "Akainu",
+        "date": "28 Feb 2023",
+        "time": "06:23 PM",
+        "amount": 20.00,
+        "status": "Received"
+    }
+]
